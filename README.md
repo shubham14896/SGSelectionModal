@@ -3,10 +3,10 @@
 # SGSelection Modal
 > SGSelection Modal is a lightweight framework for Selecting out single/multiple value from a list.
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)]
-[![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://developer.apple.com/swift/)]
-[!License](https://img.shields.io/github/license/mashape/apistatus.svg)]
-[!Made with Love by Shubham Gupta](https://img.shields.io/badge/Made%20with%20Love%20by%20Shubham%20Gupta--Green.svg)]
+![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
+[![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://developer.apple.com/swift/)
+[!License](https://img.shields.io/github/license/mashape/apistatus.svg)
+[!Made with Love by Shubham Gupta](https://img.shields.io/badge/Made%20with%20Love%20by%20Shubham%20Gupta--Green.svg)
 
 ## About
 
