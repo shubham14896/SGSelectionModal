@@ -36,7 +36,10 @@ Add following pod to project podfile.
   ````
 #### Manually
 
-Download SGModal.swift,SGModalItem.swift,SGRadioButton.swift
+Download following files & add to your project.
+- SGModal.swift.
+- SGModalItem.swift.
+- SGRadioButton.swift.
 
 ## Usage example
 ````
@@ -45,25 +48,26 @@ import SGSelectionModal
 var selectedIndex: Int = 0
 
 func showModal(){
-let modal = SGModal(title: "Select Country", closeButtonTitle: "Close")
-        modal.width = 300
-        modal.selectedIndex = selectedIndex
-        for (index, state) in StateList.states.enumerated() {
-            modal.addItem(item: state) {
-                () in
-                print(state)
-                self.selectedIndex = index
-            }
-        }
-        modal.show()
+
+  let modal = SGModal(title: "Select Country", closeButtonTitle: "Close")
+  modal.width = 300
+  modal.selectedIndex = selectedIndex
+  
+      for (index, state) in StateList.states.enumerated() {
+              modal.addItem(item: state) {
+                  () in
+                  print(state)
+                  self.selectedIndex = index
+              }
+       }
+       
+  modal.show()
 }
 ````
-
+## Preview
 
 ## Contribute
-
 We would love you for the contribution to **SGSelection Modal**, check the ``LICENSE`` file for more info.
-
 ## Meta
 
 
