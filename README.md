@@ -13,14 +13,14 @@
 
 ## About
 
-Having trouble selecting out which state/city/{list} user/{entity} belongs to ??? Here's what you need, A lightweight framework built for selecting out a single/multiple values from a list.Built in using UIView, UIAnimations, ScrollView, UIButton. Initiate a object, add items to object, override closures and you are good to go.
+Having trouble selecting out which state/city/{list} user/{entity} belongs to ???  Here's what you need, A lightweight framework built for selecting out a single/multiple values from a list.Built in using UIView, UIAnimations, ScrollView, UIButton. Initiate a object, add items to object, override closures and you are good to go.
 
 ## Features
 
-Single Select.
-Dynamic Width.
-Works on Landscape & Portrait Mode.
-Initiate with Selected Index.
+- Single Select.
+- Dynamic Width.
+- Works on Landscape & Portrait Mode.
+- Initiate with Selected Index.
 
 ## Requirements
 
@@ -30,7 +30,10 @@ Initiate with Selected Index.
 ## Installation
 
 #### CocoaPods
+Add following pod to project podfile.
+````
   pod ’SGSelectionModal’
+  ````
 #### Manually
 
 ## Usage example
