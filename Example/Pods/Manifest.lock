@@ -1,0 +1,16 @@
+PODS:
+  - SGSelectionModal (1.0.0)
+
+DEPENDENCIES:
+  - SGSelectionModal (from `../SGSelectionModal/`)
+
+EXTERNAL SOURCES:
+  SGSelectionModal:
+    :path: "../SGSelectionModal/"
+
+SPEC CHECKSUMS:
+  SGSelectionModal: 6a474b4015e6300a814244a08aa96db0ff579538
+
+PODFILE CHECKSUM: c073b9b2d5cd17183f6f040451cfc10ba4b02f3f
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module SGSelectionModal {
+  umbrella header "SGSelectionModal-umbrella.h"
+
+  export *
+  module * { export * }
+}
