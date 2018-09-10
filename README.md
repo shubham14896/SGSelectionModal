@@ -68,7 +68,7 @@ func showModal(){
 We would love you for the contribution to **SGSelection Modal**, check the ``LICENSE`` file for more info.
 ## Meta
 
-Shubham Gupta – [@YourTwitter](https://twitter.com/Shubham14896) – shubham9032@gmail.com
+Shubham Gupta – [@shubham14896](https://twitter.com/Shubham14896) – shubham9032@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
