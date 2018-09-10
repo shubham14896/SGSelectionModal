@@ -6,7 +6,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
 ![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
-![Made with Love by Shubham Gupta](https://img.shields.io/badge/Made%20with%20Love%20by%20Shubham%20Gupta--Green.svg)
+![Author Shubham Gupta](https://img.shields.io/badge/Author-Shubham%20Gupta-blue.svg)
 
 ## About
 
