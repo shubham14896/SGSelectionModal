@@ -63,6 +63,9 @@ func showModal(){
 }
 ````
 ## Preview
+<img src="https://raw.githubusercontent.com/shubham14896/SGSelectionModal/master/Preview1.png"></img>
+<img src="https://raw.githubusercontent.com/shubham14896/SGSelectionModal/master/Preview2.png"></img>
+
 
 ## Contribute
 We would love you for the contribution to **SGSelection Modal**, check the ``LICENSE`` file for more info.
