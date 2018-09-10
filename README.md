@@ -3,10 +3,13 @@
 # SGSelection Modal
 > SGSelection Modal is a lightweight framework for Selecting out single/multiple value from a list.
 
-[![Swift Version][swift-image]][swift-url]
-[![License][license-image]][license-url]
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
-[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
+[![Version](https://img.shields.io/cocoapods/v/Presentr.svg?style=flat)](http://cocoapods.org/pods/Presentr)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://developer.apple.com/swift/)
+[![Platform](https://img.shields.io/cocoapods/p/Presentr.svg?style=flat)](http://cocoapods.org/pods/Presentr)
+[![License](https://img.shields.io/cocoapods/l/Presentr.svg?style=flat)](http://cocoapods.org/pods/Presentr)
+[![codebeat badge](https://codebeat.co/badges/f89d5cdf-b0c3-441d-b4e1-d56dcea48544)](https://codebeat.co/projects/github-com-icalialabs-presentr)
+![Made with Love by Shubham Gupta](https://img.shields.io/badge/With%20love%20by-Icalia%20Labs-ff3434.svg)
 
 ## About
 
@@ -23,6 +26,7 @@ Having trouble selecting out which state/city/{list} user/{entity} belongs to ??
 
 - iOS 11.0+
 - Xcode 9.0
+- Swift 3.0+
 
 ## Installation
 
