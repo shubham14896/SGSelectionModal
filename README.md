@@ -68,7 +68,7 @@ func showModal(){
 
 
 ## Contribute
-I would love you for the contribution to **SGSelection Modal**, check the ``LICENSE`` file for more info.
+Any contribution to **SGSelection Modal** will be appreciated, check the ``LICENSE`` file for more info.
 ## Meta
 
 Shubham Gupta – [@shubham14896](https://twitter.com/Shubham14896) – shubham9032@gmail.com
